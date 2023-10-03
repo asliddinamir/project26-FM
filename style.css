@@ -75,9 +75,6 @@ body {
     margin-top: .5rem;
 }
 
-.active {
-    color: #fff;
-}
 
 .review_container {
     display: flex;
